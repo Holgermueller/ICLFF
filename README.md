@@ -13,4 +13,4 @@ Things I took into consideration when building the site:
 - Making sure PDFs embedded on the site were easy to download, and if they were, adding instructions to assist users who had trouble with this.
 - Optimizing site elements for mobile responisitivity
 
-I also learned how to embed PDFs on Wordpress sites.
+I also learned how to embed PDFs on Wordpress sites, how to create a Wordpress site from scratch, and how to get a site hosted on Hostinger.
